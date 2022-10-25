@@ -1,0 +1,3 @@
+ARG SONAR_VERSION
+
+FROM sonarqube:${SONAR_VERSION}
